@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[9355],{96516:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/param-less","name":"param-less","count":1,"permalink":"/blog/tags/param-less"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[6418],{23079:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/light-weight","name":"light-weight","count":6,"permalink":"/blog/tags/light-weight"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[9405],{18554:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/fpn","name":"FPN","count":2,"permalink":"/blog/tags/fpn"}')}}]);

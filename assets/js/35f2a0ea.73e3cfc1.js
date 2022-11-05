@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[7602],{37922:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/multi-scale-learning","name":"multi-scale-learning","count":5,"permalink":"/blog/tags/multi-scale-learning"}')}}]);

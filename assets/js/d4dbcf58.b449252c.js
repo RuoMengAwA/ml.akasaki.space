@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[4097],{15879:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/transformer","name":"transformer","count":3,"permalink":"/blog/tags/transformer"}')}}]);

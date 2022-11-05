@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[6704],{39842:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/instance-segmentation","name":"instance-segmentation","count":3,"permalink":"/blog/tags/instance-segmentation"}')}}]);

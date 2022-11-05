@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[2994],{3085:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/multi-branch","name":"multi-branch","count":2,"permalink":"/blog/tags/multi-branch"}')}}]);

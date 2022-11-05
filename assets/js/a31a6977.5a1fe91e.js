@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[7083],{44095:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/attention-mechanism","name":"attention-mechanism","count":16,"permalink":"/blog/tags/attention-mechanism"}')}}]);

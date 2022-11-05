@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkml_notebook=self.webpackChunkml_notebook||[]).push([[1733],{51716:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/inductive-bias","name":"inductive-bias","count":5,"permalink":"/blog/tags/inductive-bias"}')}}]);
